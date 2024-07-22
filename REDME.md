@@ -15,5 +15,5 @@ This project implements a solution to the Hangman problem using machine learning
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/trexquant-hangman.git
+   git clone https://github.com/2Yurei1/GAme.git
    cd trexquant-hangman
